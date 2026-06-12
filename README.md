@@ -6,10 +6,10 @@ Electronics and Communication Engineering (ECE) student and multi-disciplinary d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayana-yaranal)
 
 ### 🚀 Featured Projects:
-* **🤖 VoiceOps-Sentinel** — Real-time AI call intelligence and automated transcription system.
-* **📂 RAG-based-AI-SOP-Assistant** — Intelligent workflow assistant utilizing document parsing and re-ranking algorithms.
-* **⚡ EV-Battery-Intelligence** — Core electric vehicle data infrastructure, logic validation, and charging/discharging analysis.
-* **🔋 AI-Battery-Management-System** — Embedded BMS architecture focusing on sensing circuitry (shunts/thermistors) and state estimation (SOC/SOH).
+* **🤖 [VoiceOps-Sentinel](https://github.com/nayana649/VoiceOps-Sentinel)** — Real-time AI call intelligence and automated transcription system.
+* **📂 [RAG-based-AI-SOP-Assistant](https://github.com/nayana649/RAG-based-AI-SOP-Assistant)** — Intelligent workflow assistant utilizing document parsing and re-ranking algorithms.
+* **⚡ [EV-Battery-Intelligence](https://github.com/nayana649/EV-Battery-Intelligence)** — Core electric vehicle data infrastructure, logic validation, and charging/discharging analysis.
+* **🔋 [AI-Battery-Management-System](https://github.com/nayana649/AI-Battery-Management-System)** — Embedded BMS architecture focusing on sensing circuitry (shunts/thermistors) and state estimation (SOC/SOH).
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
