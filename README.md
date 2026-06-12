@@ -24,6 +24,12 @@ Electronics and Communication Engineering (ECE) student and multi-disciplinary d
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayana649&layout=compact&theme=tokyonight" alt="Top Languages" />
 
+### 📊 GitHub Advanced Analytics:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=nayana649&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nayana's GitHub Stats" height="192px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nayana649&theme=tokyonight" alt="GitHub Streak Stats" height="192px" />
+</p>
+
 ### 📈 Platform Activity:
 ![](https://img.shields.io/github/followers/nayana649?label=Followers&style=for-the-badge&color=2196F3)
 ![](https://img.shields.io/github/stars/nayana649/VoiceOps-Sentinel?label=VoiceOps%20Stars&style=for-the-badge&color=FF9800)
